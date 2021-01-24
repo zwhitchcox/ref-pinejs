@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "ts-node-dev src/app.ts"
+  },
+  "dependencies": {
+    "@balena/pinejs": "^14.14.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.8",
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
+}
